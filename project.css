@@ -181,7 +181,7 @@ margin-bottom: -35px;
     background-image: url('./home.jpg');
     background-size: 100%;
     filter: brightness(100%);
-    color:white;
+    color:red;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
