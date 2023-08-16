@@ -208,7 +208,26 @@ margin-bottom: -35px;
    #maindiv{
     margin-top: 25px;
     height: 280px;
-    width: 410;
+    width: 410px;
     /* border: 5px solid black; */
-} 
+}
+    .head{
+    margin-top: 0%;
+    width: 410px;
+    align-items: flex-start;
+    background-color: rgb(1, 1, 60);
+}
+#map{
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.logo{
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    padding-top: 10px;
+    padding-right: 20px;
+    color: aliceblue;
+    
+}
 }
