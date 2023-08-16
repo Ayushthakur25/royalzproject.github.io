@@ -176,12 +176,12 @@ margin-bottom: -35px;
 
 
 
-@media screen and (max-width:400px)
+@media screen and (max-width:420px)
 {
     *{
       padding: 0px;
     margin: 0px;  
-    max-width:400px;
+    max-width:410px;
     max-height:100%;
 }
     .head1{
@@ -190,7 +190,7 @@ margin-bottom: -35px;
     height: 100%;
     background-image: url('./home.jpg');
     background-width:410px;
-    background-size: 100%;
+    background-size: 410px;
     color:white;
     background-attachment: fixed;
     background-repeat: no-repeat;
